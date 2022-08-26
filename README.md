@@ -1,6 +1,5 @@
-# shopsy
-this is very good app
-offers
-10% off for tops
-very good product 
-50% off
+collage management
+student id
+student name
+student department
+student course
